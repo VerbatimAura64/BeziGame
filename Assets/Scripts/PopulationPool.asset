@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d68019c20dc0e347b31938fd5e96c94, type: 3}
+  m_Name: PopulationPool
+  m_EditorClassIdentifier: Lighthouseproductions.Gametools::Harborview.GameTools.PopulationPool
+  decoyPrefabs:
+  - prefab: {fileID: 6685064322933331859, guid: a04195b0175ec094d88587b8645390a5, type: 3}
+    weight: 2
+  - prefab: {fileID: 204689379409257782, guid: c9380f08ef0c4f24fb35cb1553376656, type: 3}
+    weight: 2
+  targetPrefab: {fileID: 4338292609733615456, guid: 4e823cb850d6d2d4d9a302bcad4663dc, type: 3}

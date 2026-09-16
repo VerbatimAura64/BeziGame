@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a078c0dab3118a45a0395711cdbe3e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79902
+  packageName: Horse Animset Pro (Riding System)
+  packageVersion: 4.5.2b
+  assetPath: Assets/Malbers Animations/Common/Scripts/IK/IK IDs/IK_Chest.asset
+  uploadId: 945398

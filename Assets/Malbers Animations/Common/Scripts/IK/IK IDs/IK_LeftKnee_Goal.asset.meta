@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf629649457ac4a469def3a9436b1981
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79902
+  packageName: Horse Animset Pro (Riding System)
+  packageVersion: 4.5.2b
+  assetPath: Assets/Malbers Animations/Common/Scripts/IK/IK IDs/IK_LeftKnee_Goal.asset
+  uploadId: 945398
