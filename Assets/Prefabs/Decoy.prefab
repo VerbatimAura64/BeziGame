@@ -126,4 +126,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Lighthouseproductions.Gametools::Harborview.GameTools.Interactable
   isTarget: 0
+  WillsHeart: 0
+  currSize: {x: 0, y: 0, z: 0}
+  maxSize: {x: 0, y: 0, z: 0}
+  minSize: {x: 0, y: 0, z: 0}
   ownerZone: {fileID: 0}
